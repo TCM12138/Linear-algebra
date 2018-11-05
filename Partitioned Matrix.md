@@ -1,4 +1,6 @@
 线性代数
+$c_i$
+
 ${\displaystyle \mathbf {A}$ = ${\begin{bmatrix}1&2\\3&4\end{bmatrix}}}$  $\mathbf {A} ={\begin{bmatrix}1&2\\3&4\end{bmatrix}}$
 向量 · 向量空间  · 行列式  · 矩阵
 
