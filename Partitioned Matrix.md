@@ -1,5 +1,5 @@
 线性代数
-{\displaystyle \mathbf {A} ={\begin{bmatrix}1&2\\3&4\end{bmatrix}}} \mathbf {A} ={\begin{bmatrix}1&2\\3&4\end{bmatrix}}
+${\displaystyle \mathbf {A} ={\begin{bmatrix}1&2\\3&4\end{bmatrix}}} \mathbf {A} ={\begin{bmatrix}1&2\\3&4\end{bmatrix}}$
 向量 · 向量空间  · 行列式  · 矩阵
 
 通过将大的矩阵通过分块的方式划分，并将每个分块看做另一个矩阵的元素，这样之后再参与运算，通常可以让计算变得清晰甚至得以大幅简化。
