@@ -1,6 +1,8 @@
 # 线性代数
 # ${c_i}$
 
+$ J_\alpha(x) = \sum_{m=0}^\infty \frac{(-1)^m}{m! \Gamma (m + \alpha + 1)} {\left({ \frac{x}{2} }\right)}^{2m + \alpha} \text {，行内公式示例} $
+
  ${\displaystyle$  $\mathbf {A}$ = ${\begin{bmatrix}1&2\\3&4\end{bmatrix}}}$  $\mathbf {A} ={\begin{bmatrix}1&2\\3&4\end{bmatrix}}$
 向量 · 向量空间  · 行列式  · 矩阵
 
